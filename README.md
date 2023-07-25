@@ -13,7 +13,7 @@ The following file introductions are in the order of the first character of the 
 - `Discretization accumulation matrix`: In order to obtain the centrality of the feature vector, the combined network float data is converted into a matrix with 0.28 as the boundary point and 0,1.<br>
 - `Discretization addition matrix`: In order to obtain the centrality of the feature vector, the emotional network float data is converted into a matrix with 0.28 as the boundary point and 0,1.<br>
 - `Eigenvector central_factory_dispersity`: Data that combines the centrality of network feature vectors.<br>
-- `Email-based emotional score`: the score data of each email.<br>
+- `Email-based emotional score`: The score data of each email.<br>
 - `Feature vector centrality_emotion_discrete`: Feature vector centrality data of emotional network.<br>
 - `Filtered 2076 relationships`: Relationships filtered according to the number of emails.<br>
 - `Mapping of the centrality of feature vectors in the emotional network in the combined network`: the difference in the centrality ranking of the two network feature vectors.<br>

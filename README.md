@@ -4,8 +4,8 @@ This is the source code and experiment results of *An Approach to Internal Threa
 ---
 
 The following file introductions are in the order of the first character of the file name:<br>
-`94-week combination network`: The first 94 weeks in the combination network are selected.<br>
-`103-week combination network`: The first 94 weeks in the combination network are selected.<br>
+- `94-week combination network`: The first 94 weeks in the combination network are selected.<br>
+- `103-week combination network`: The first 94 weeks in the combination network are selected.<br>
 `Mapping of the centrality of feature vectors in the emotional network in the combined network`: Comparing the differences in the centrality ranking of feature vectors in the emotional network and the combined network.<br>
 `Anran email address after preprocessing`: After preprocessing, the path of the feasible Enron data mail. Please note that 'Anran' is the misspelling of 'Enron'.<br>
 `date_to_week`: Converting days into weeks is not in units of 7 days, but in this file for reference, because emails are not continuous by day.<br>

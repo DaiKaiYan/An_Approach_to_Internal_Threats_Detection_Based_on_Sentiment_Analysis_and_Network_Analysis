@@ -7,7 +7,7 @@ The following file introductions are in the order of the first character of the 
 `94-week combination network`: The first 94 weeks in the combination network are selected.<br>
 `103-week combination network`: The first 94 weeks in the combination network are selected.<br>
 `Mapping of the centrality of feature vectors in the emotional network in the combined network`: Comparing the differences in the centrality ranking of feature vectors in the emotional network and the combined network.<br>
-`Anran email address after preprocessing`: After preprocessing, the path of the feasible Enron data mail. ('Anran' is the misspelling of 'Enron')<br>
+`Anran email address after preprocessing`: After preprocessing, the path of the feasible Enron data mail. Please note that 'Anran' is the misspelling of 'Enron'.<br>
 `date_to_week`: Converting days into weeks is not in units of 7 days, but in this file for reference, because emails are not continuous by day.<br>
 `Based on the relationship before filtering the number of messages`: The number of messages based on the relationship is a filtering measure taken to avoid sparse matrices.<br>
 `Discretization accumulation matrix`: In order to obtain the centrality of the feature vector, the combined network float data is converted into a matrix with 0.28 as the boundary point and 0,1.<br>

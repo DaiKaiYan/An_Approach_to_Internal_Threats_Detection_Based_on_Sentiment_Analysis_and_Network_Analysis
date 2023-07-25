@@ -1,8 +1,8 @@
 # An_Approach_to_Internal_Threats_Detection_Based_on_Sentiment_Analysis_and_Network_Analysis
-This is the source code and experiment results of An Approach to Internal Threats Detection Based on Sentiment Analysis Network Analysis. More information that support the findings of this study is available from us upon reasonable request.<br>
+This is the source code and experiment results of *An Approach to Internal Threats Detection Based on Sentiment Analysis Network Analysis*. More information that support the findings of this study is available from us upon reasonable request.<br>
 
-The following file introductions are in the order of the first character of the file name.<br>
-94-week combination network: The first 94 weeks in the combination network are selected.<br>
+The following file introductions are in the order of the first character of the file name:<br>
+'''94-week combination network''': The first 94 weeks in the combination network are selected.<br>
 103-week combination network: The first 94 weeks in the combination network are selected.<br>
 Mapping of the centrality of feature vectors in the emotional network in the combined network: Comparing the differences in the centrality ranking of feature vectors in the emotional network and the combined network Anran email address after preprocessing: After preprocessing, the path of the feasible Anran data mail.<br>
 date_to_week: Converting days into weeks is not in units of 7 days, but in this file for reference, because emails are not continuous by day.<br>

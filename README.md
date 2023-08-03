@@ -5,7 +5,7 @@ This is the source code and experiment results of *An Approach to Internal Threa
 
 The following file introductions are in the order of the first character of the file name:<br>
 - `94-week combination network`: The first 94 weeks in the combination network are selected.<br>
-- `103-week combination network`: The first 94 weeks in the combination network are selected.<br>
+- `103-week combination network`: The first 103 weeks in the combination network are selected.<br>
 - `Mapping of the centrality of feature vectors in the emotional network in the combined network`: Comparing the differences in the centrality ranking of feature vectors in the emotional network and the combined network.<br>
 - `Anran email address after preprocessing`: After preprocessing, the path of the feasible Enron data mail. Please note that 'Anran' is the misspelling of 'Enron'.<br>
 - `date_to_week`: Converting days into weeks is not in units of 7 days, but in this file for reference, because emails are not continuous by day.<br>
@@ -16,7 +16,7 @@ The following file introductions are in the order of the first character of the 
 - `Email-based emotional score`: The score data of each email.<br>
 - `Feature vector centrality_emotion_discrete`: Feature vector centrality data of emotional network.<br>
 - `Filtered 2076 relationships`: Relationships filtered according to the number of emails.<br>
-- `Mapping of the centrality of feature vectors in the emotional network in the combined network`: the difference in the centrality ranking of the two network feature vectors.<br>
+- `Mapping of the centrality of feature vectors in the emotional network in the combined network`: The difference in the centrality ranking of the two network feature vectors.<br>
 - `Number of relationship-based messages`: The number of messages in relationship units.<br>
 - `Original network`: A matrix composed of filtered relationships and sorted time series and relationship-based emotional scores.<br>
 - `Original time series`: The original time series is obtained according to the date in the email.<br>
@@ -24,4 +24,4 @@ The following file introductions are in the order of the first character of the 
 - `Restore network_emotional accumulation_normalization`: Restore the matrix of the network based on peak and singular values.<br>
 - `Singular value`: A file that stores singular values.<br>
 - `Sorted mail time series`: Sorted time series.<br>
-- `The original network is converted into weekly units`: compresses the date of the original network from days to weeks, making it data-intensive.<br>
+- `The original network is converted into weekly units`: Compresses the date of the original network from days to weeks, making it data-intensive.<br>
